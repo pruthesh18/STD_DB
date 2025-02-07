@@ -1,16 +1,4 @@
-#include"header.h"
 
-//function defination
-extern void stud_add(STU **);
-/*extern*/ void stud_del(STU **);
-/*extern*/ void stud_show(STU *);
-/*extern*/ void stud_mod(STU *);
-/*extern*/ void serarch_node(STU *,char);
-/*extern*/ void sort_data(STU *ptr);
-/*extern*/ void exit_with(STU *);
-/*extern*/ void save_data(STU *);
-/*extern*/ void delete_all(STU **);
-/*extern*/ void reverse_links(STU **);
 
 int count_node(STU *ptr)
 {
